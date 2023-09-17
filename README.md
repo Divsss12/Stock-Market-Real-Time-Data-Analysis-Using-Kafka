@@ -17,5 +17,4 @@ This project involves the development of a real-time data analysis system for mo
 
 
 ## Dataset Used
-https://github.com/Divsss12/Stock-Market-Real-Time-Data-Analysis-Using-Kafka
-/blob/main/indexProcessed.csv
+https://github.com/Divsss12/Stock-Market-Real-Time-Data-Analysis-Using-Kafka/blob/main/indexProcessed.csv
